@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Sakhi
+# Responsive Portfolio Website Sakthi
 ### Responsive Portfolio Website Sakthi
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
